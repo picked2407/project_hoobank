@@ -28,9 +28,7 @@ const Hero = () => {
           doorstep
         </h1>
         <p className={`${styles.paragraph} max-w-[470px] mt-5`}>
-          Our team of experts uses a methodology to identify the credit cards
-          most likely to fit your needs. We examine annual percentage rates,
-          annual fees.
+          Make your next big thing come to life by leveraging the global talent that we provide. We make it easy for you to choose from a wide variety of talent that suit your needs best, at the price-point that you are comfortable with, within the time constraints that you desire.
         </p>
       </div>
 
